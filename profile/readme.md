@@ -12,7 +12,9 @@ Not all of these are a reality yet, but it is a work in progress.
 
 Projects:
 - [PrisonCore](https://github.com/PrisonPL/PrisonCore) _(1.0)_
-- [PublicMines](https://github.com/PrisonPL/PublicMines) _(In Development)_
+- [PrisonMenus](https://github.com/PrisonPL/PrisonMenus) _(In Development)_
+- [PrisonSkills](https://github.com/PrisonPL/PrisonSkills) _(Pending)_
+- [PublicMines](https://github.com/PrisonPL/PublicMines) _(Postponed)_
 - Tools _(Doesn't Exist Yet)_
 - PrivateMines _(Doesn't Exist Yet)_
 - Gangs _(Doesn't Exist Yet)_
