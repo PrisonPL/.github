@@ -12,11 +12,11 @@ Not all of these are a reality yet, but it is a work in progress.
 
 Projects:
 - [PrisonCore](https://github.com/PrisonPL/PrisonCore) _(1.0)_
-- [PrisonMenus](https://github.com/PrisonPL/PrisonMenus) _(In Development)_
-- [PrisonSkills](https://github.com/PrisonPL/PrisonSkills) _(Pending)_
+- [PrisonMenus](https://github.com/PrisonPL/PrisonMenus) _(1.0)_
+- [PrisonSkills](https://github.com/PrisonPL/PrisonSkills) _(In Development)_
 - [PublicMines](https://github.com/PrisonPL/PublicMines) _(Postponed)_
-- Tools _(Doesn't Exist Yet)_
-- PrivateMines _(Doesn't Exist Yet)_
-- Gangs _(Doesn't Exist Yet)_
+- Tools
+- PrivateMines
+- Gangs
 
 Feel free to use [these projects](https://packagecloud.io/CollidaCube/PrisonPL) in your projects
